@@ -1,0 +1,36 @@
+[
+    {
+		"name": "Newgrange",
+		"type": "Passage Tomb",
+		"period": "Neolithic",
+		"description": "",
+		"ownership": "Office of Public Works",
+
+		"date": {
+			"founded": "-3200-01-01",
+			"dateBrief": "3200 BC"
+		},
+
+		"location": {
+			"county": "Meath",
+			"locatedIn": "Brú na Bóinne",
+			"coordinates": {
+				"latitude": 53.6947,
+				"longitude": 6.4755
+			}
+		},
+
+		"size": {
+			"height": 13,
+			"width": 85,
+			"depth": 85
+		},
+
+		"access": {
+			"publicAccess": true,
+			"type": "Guided tour only"
+		},
+
+		"website": "www.newgrange.com"
+	}
+]
