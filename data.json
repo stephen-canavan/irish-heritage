@@ -32,5 +32,40 @@
 		},
 
 		"website": "www.newgrange.com"
+	},
+
+    {
+		"name": "Skellig Michael",
+		"type": "Monastic Settlement",
+		"period": "6th - 8th Century",
+		"description": "",
+		"ownership": "Office of Public Works",
+
+		"date": {
+			"founded": "-3200-01-01",
+			"dateBrief": "500 - 800 AD"
+		},
+
+		"location": {
+			"county": "Kerry",
+			"locatedIn": "Skellig Islands",
+			"coordinates": {
+				"latitude": 51.7707,
+				"longitude": 10.5405
+			}
+		},
+
+		"size": {
+			"height": 218,
+			"width": null,
+			"depth": null
+		},
+
+		"access": {
+			"publicAccess": true,
+			"type": "Guided tour only"
+		},
+
+		"website": "http://www.worldheritageireland.ie/skellig-michael/"
 	}
 ]
