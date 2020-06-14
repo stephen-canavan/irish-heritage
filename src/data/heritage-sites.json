@@ -1,0 +1,145 @@
+[
+    {
+		"name": "Newgrange",
+		"type": "Passage Tomb",
+		"period": "Neolithic",
+		"description": "",
+		"ownership": "Office of Public Works",
+
+		"date": {
+			"founded": "-3200-01-01",
+			"dateBrief": "3200 BC"
+		},
+
+		"location": {
+			"county": "Meath",
+			"locatedIn": "Brú na Bóinne",
+			"coordinates": {
+				"latitude": 53.6947,
+				"longitude": 6.4755
+			}
+		},
+
+		"size": {
+			"height": 13,
+			"width": 85,
+            "depth": 85,
+            "area": 4047
+		},
+
+		"access": {
+			"publicAccess": true,
+			"type": "Guided tour only"
+		},
+
+		"website": "www.newgrange.com"
+	},
+
+    {
+		"name": "Skellig Michael",
+		"type": "Monastic Settlement",
+		"period": "6th - 8th Century",
+		"description": "",
+		"ownership": "Office of Public Works",
+
+		"date": {
+			"founded": "500-01-01",
+			"dateBrief": "500 - 800 AD"
+		},
+
+		"location": {
+			"county": "Kerry",
+			"locatedIn": "Skellig Islands",
+			"coordinates": {
+				"latitude": 51.7707,
+				"longitude": 10.5405
+			}
+		},
+
+		"size": {
+			"height": 218,
+			"width": null,
+            "depth": null,
+            "area": 218530
+		},
+
+		"access": {
+			"publicAccess": true,
+			"type": "Guided tour only"
+		},
+
+		"website": "http://www.worldheritageireland.ie/skellig-michael/"
+    },
+    
+    {
+		"name": "Glendalough",
+		"type": "Monastic Settlement",
+		"period": "6th Century",
+		"description": "",
+		"ownership": "Office of Public Works",
+
+		"date": {
+			"founded": "500-01-01",
+			"dateBrief": "500 AD"
+		},
+
+		"location": {
+			"county": "Wicklow",
+			"locatedIn": "Wicklow Mountains National Park",
+			"coordinates": {
+				"latitude": 53.0120,
+				"longitude": 6.3298
+			}
+		},
+
+		"size": {
+			"height": null,
+			"width": null,
+            "depth": null,
+            "area": null
+		},
+
+		"access": {
+			"publicAccess": true,
+			"type": "Free of charge"
+		},
+
+		"website": "http://www.glendalough.ie/"
+    },
+    
+    {
+		"name": "Dublin Castle",
+		"type": "Castle",
+		"period": "13th Century",
+		"description": "",
+		"ownership": "Office of Public Works",
+
+		"date": {
+			"founded": "1204-01-01",
+			"dateBrief": "1204 AD"
+		},
+
+		"location": {
+			"county": "Dublin",
+			"locatedIn": "Dublin City",
+			"coordinates": {
+				"latitude": 53.3429,
+				"longitude": 6.2674
+			}
+		},
+
+		"size": {
+			"height": 9,
+			"width": null,
+            "depth": null,
+            "area": 44000
+		},
+
+		"access": {
+			"publicAccess": true,
+			"type": "Paid ticket"
+		},
+
+		"website": "https://www.dublincastle.ie/"
+	}
+]
