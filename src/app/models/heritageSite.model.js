@@ -16,7 +16,7 @@ const heritageSiteSchema = mongoose.Schema({
     location: {
         county:  String,
         locatedIn: String,
-        
+
         coordinates: {
             latitude: Number,
             longitude: Number
